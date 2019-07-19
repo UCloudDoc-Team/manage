@@ -1,3 +1,3 @@
 # 操作日志 ULog
 
-![nsort dsort msort](/images/indexmenu\>//management_monitor/manage#1)
+操作日志，记录了用户在控制台与API对资源进行的操作行为。
