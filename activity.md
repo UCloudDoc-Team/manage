@@ -14,9 +14,7 @@
 
 高危识别：自动标记影响业务可用性或数据安全的高风险操作。
 
-<img width="2664" height="1000" alt="Ulog" src="https://github.com/user-attachments/assets/017dabe1-a7f8-4f56-8600-870f9fc4a95b" />
-
-
+![](https://www-s.ucloud.cn/2026/03/7e71da11d48e1ec92a3fbb7f5b18552c_1773733970504.png)
 
 2） 支持下载资源操作记录。
   
