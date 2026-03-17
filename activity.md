@@ -14,7 +14,7 @@
 高危识别：自动标记影响业务可用性或数据安全的高风险操作。
 
 
-<img width="1750" height="500" alt="image" src="https://github.com/user-attachments/assets/ffa84c6e-8705-4b35-9fd9-ad252f49f53b" />
+<img width="1850" height="500" alt="image" src="https://github.com/user-attachments/assets/ffa84c6e-8705-4b35-9fd9-ad252f49f53b" />
 
 
 
