@@ -6,7 +6,7 @@
 
 * 操作指南
   
-  * [日志查询与导出](/manager/ULog.md) 
+  * [日志查询与导出](/manage/ULog.md) 
 
-* [FAQ](/manager/FAQ)
+* [FAQ](/manage/FAQ)
 
