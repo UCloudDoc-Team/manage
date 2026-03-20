@@ -2,11 +2,11 @@
 
 * 产品概述
 
-  * [什么是操作日志](/manager/WhatAreULog) 
+  * [什么是操作日志](/manage/WhatAreULog) 
     
 * 操作指南
   
-  * [日志查询与导出](/manager/ULog) 
+  * [日志查询与导出](/manage/ULog) 
 
-* [FAQ](/manager/FAQ)
+* [FAQ](/manage/FAQ)
 
